@@ -1,1 +1,1 @@
-# Generate pin and varify
+# Generate pin and verify
