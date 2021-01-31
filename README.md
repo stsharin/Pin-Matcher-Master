@@ -1,0 +1,1 @@
+# Generate pin and varify
